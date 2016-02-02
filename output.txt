@@ -1,0 +1,1 @@
+Average computation time over 10 cycles is: 8.3847
